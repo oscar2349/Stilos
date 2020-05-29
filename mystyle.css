@@ -3,6 +3,7 @@
     text-align:center;
     border: 2px solid tomato;
     color:rgb(175, 50, 50);
+    opacity: 0.3;
   
   }
 
@@ -16,5 +17,9 @@
   body {
     /*background-color: lightblue;*/
     margin: 3rem;
+  }
+
+  div{
+    background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */
   }
   
